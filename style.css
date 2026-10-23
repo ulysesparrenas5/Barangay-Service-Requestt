@@ -1,0 +1,23 @@
+body {
+  background-color: #f4f7fb;
+}
+
+.auth-card {
+  max-width: 420px;
+  border: none;
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+.app-card {
+  border: none;
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+.app-card {
+  border: none;
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+.status-select {
+  min-width: 130px;
+}
